@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @Luca3700
+- 👋 Hi, I’m Luca Torzi
 - 👀 I’m interested in Computer Science and Engineering
 - 🌱 I’m currently studying Artificial Intelligence
 
